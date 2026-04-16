@@ -86,7 +86,7 @@ It uses **I2C communication**, which reduces wiring complexity and allows effici
 ## System Setup Images
 
 ### Front View (Initial)
-![Front View Initial](Fronview_initial.png)
+![Front View Initial](Frontview_initial.png)
 
 ### Side View (Initial)
 ![Side View Initial](Sideview_initial.png)
